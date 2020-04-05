@@ -44,3 +44,7 @@ print ("ciao!") -> prints to std output
 
 import sys
 print("ciao!", filesys.stderr) -> prints to std error
+
+# %%
+print(variable_not_defined)
+
