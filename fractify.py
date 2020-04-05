@@ -39,12 +39,5 @@ def test_identity_element(f1):
     assert sum(f1, zero) == f1
 
 #these are properties that I am testing i.e. property tests
-
-print ("ciao!") -> prints to std output
-
-import sys
-print("ciao!", filesys.stderr) -> prints to std error
-
-# %%
-print(variable_not_defined)
+# %% delimits a block of code
 
